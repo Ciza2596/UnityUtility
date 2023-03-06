@@ -1,0 +1,16 @@
+{
+    "name": "UIUtility.Editor",
+    "rootNamespace": "UIUtility.Editor",
+    "references": [
+        "UIUtility"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
